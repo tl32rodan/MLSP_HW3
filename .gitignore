@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+four_dataset/**
+mixture_dataset(0147)/**
