@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 four_dataset/**
 mixture_dataset(0147)/**
+*.zip
